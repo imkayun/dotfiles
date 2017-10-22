@@ -1,10 +1,12 @@
 [user]
-	name = Nelson Tran
-	email = nutty@ntt.io
-	signingkey = EFE0C0DA
+	name = Kaitlyn Tran
+	email = kayun@kyn.sh
+	signingkey = 1D046692
 
 [core]
 	editor = vim
 
 [commit]
 	gpgsign = true
+[gpg]
+	program = /usr/local/bin/gpg
