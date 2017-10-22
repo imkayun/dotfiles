@@ -4,6 +4,7 @@ brew 'coreutils'
 brew 'gpg'
 brew 'neofetch'
 brew 'node'
+brew 'pinentry-mac'
 brew 'vim'
 brew 'zsh'
 
